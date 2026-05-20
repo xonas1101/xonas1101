@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a **cloud-native engineer** obsessed with **KubeStellar** — multi-cluster orchestration that actually works. I don't just write code, I write *solutions*. Product design, QA, bug hunting, UI improvements — if it ships with quality, I'm all in.
+I'm a **cloud-native engineer** obsessed with **Kubernetes**. I don't just write code, I write *solutions*. Product design, QA, bug hunting, UI improvements — if it ships with quality, I'm all in.
 
 **Philosophy:** *Maximum effort. No shortcuts.*
 
