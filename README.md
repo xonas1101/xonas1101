@@ -130,9 +130,7 @@ Stars:            7
 </div>
 
 ---
-
-*Last Updated: Whenever I felt like it*  
-*Ego Status: Intact ✓*  
+ 
 *Ready to ship: Always*
 
 <!--
