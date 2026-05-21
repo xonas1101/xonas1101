@@ -2,9 +2,7 @@
 
 > **xonas1101** | Cloud-Native Engineer | Maximum Effort Vibes
 
-<div align="center">
 ![Deadpool vs Leo](./Cat&fish.gif)
-</div>
 
 ## 🚀 About Me
 
