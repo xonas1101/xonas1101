@@ -4,6 +4,8 @@
 
 ---
 
+![Deadpool vs Leo](./Cat&fish.gif)
+
 ## 🚀 About Me
 
 I'm a **cloud-native engineer** obsessed with **Kubernetes**. I don't just write code, I write *solutions*. Product design, QA, bug hunting, UI improvements — if it ships with quality, I'm all in.
