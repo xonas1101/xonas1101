@@ -1,9 +1,9 @@
 # 👋 Hey, I'm Aarush
 
 > **xonas1101** | Cloud-Native Engineer | Maximum Effort Vibes
-<p align="center">
+
  ![Deadpool vs Leo](./Cat&fish.gif)
-</p>
+
 ## 🚀 About Me
 
 I'm a **cloud-native engineer** obsessed with **Kubernetes**. I don't just write code, I write *solutions*. Product design, QA, bug hunting, UI improvements — if it ships with quality, I'm all in.
