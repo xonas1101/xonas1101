@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Aarush
 
-> **xonas1101** | Cloud-Native Engineer | Maximum Effort Vibes
+> **xonas1101** | Cloud-Native Engineer 
 
  ![Deadpool vs Leo](./Cat&fish.gif)
 
