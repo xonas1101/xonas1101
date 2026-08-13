@@ -13,7 +13,7 @@ I'm a **cloud-native engineer** obsessed with **Kubernetes**. I don't just write
 ## 🤝 Let's Work Together
 
 **Find me:** [@xonas1101](https://github.com/xonas1101)  
-**Hit me up:** KubeStellar contributions, orchestration problems, or just vibes  
+**Hit me up:** KubeStellar/Headlamp contributions, orchestration problems, or just vibes  
 **Fair warning:** I don't do half measures
 
 
